@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forge Studio — Protótipo
 
 Protótipo navegável de um SaaS para criação e análise de modelos 3D.
@@ -52,3 +53,7 @@ A geração automática de STL permanece simulada.
 - Nome, resolução e tamanho das imagens
 - Indicador de qualidade das referências
 - Resumo de quantidade e tamanho total
+=======
+# forge-studio
+Transforme fotos em modelos 3D para impressão.
+>>>>>>> 044de44856a40ca3242a9de578840f393d465b98
